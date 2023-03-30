@@ -1,5 +1,5 @@
 # OCRPersonalProject
-First personal project : Training and racing targets
+First personal project : Training and racing targets for triathlon
 
 Dear user,
 
